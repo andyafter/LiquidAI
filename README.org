@@ -1,0 +1,3 @@
+#+TITLE: LiquidAI
+
+LiquidAI is an artificial intelligence exploration for the new Deepmind Starcraft II AI platform. 
