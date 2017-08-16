@@ -1,3 +1,21 @@
 #+TITLE: LiquidAI
 
-LiquidAI is an artificial intelligence exploration for the new Deepmind Starcraft II AI platform. 
+LiquidAI is an artificial intelligence exploration for the new Deepmind Starcraft II AI platform. This project is based on PYSC2.
+
+* Requirements
+In order to run the scripts in this project, you need to have ~Python~ installed. Here is a list of necessary component you need to install:
+- Python
+- [[https://github.com/deepmind/pysc2][pysc2]] (Simple pip install will do.)
+- Starcraft II (Hell Yeah!)
+
+Follow the configuration steps in ~pysc2~, and make sure that you can run the example mini games and load ladder maps. 
+
+* Mini Games
+
+* Maps
+
+* How to Run
+
+* Models
+
+* External Resources
